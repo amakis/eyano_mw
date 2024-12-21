@@ -1,0 +1,21 @@
+Odoo:
+  # url: 'http://localhost:10012'
+  # db: 'test'
+  # email: 'dev.amakis@gmail.com'
+  # pwd: 'Makis001'
+  url: 'http://62.164.217.227:10012'
+  db: 'ledya'
+  email: 'dev.amakis+odoo@gmail.com'
+  pwd: 'Odoo001'
+
+Zk:
+  url: 'http://172.20.192.1:82'
+  username: 'makis'
+  pwd: 'Makis001'
+
+PgzK:
+  host: localhost
+  port: 7496
+  database: biotime
+  user: postgres
+  password: postgres
